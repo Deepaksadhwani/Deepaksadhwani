@@ -8,7 +8,7 @@
 - Bachelor in Computer Applications from Jaipur National University
 
 💻 **Passion:**
-Passion: I'm deeply committed to the software field, driven by a determination to grind until I find solutions. I love exploring new tech and solving tough problems. Creating impactful, innovative solutions is what fuels my passion.
+I'm deeply committed to the software field, driven by a determination to grind until I find solutions. I love exploring new tech and solving tough problems. Creating impactful, innovative solutions is what fuels my passion.
 
 
 ## 🌐 Socials:
