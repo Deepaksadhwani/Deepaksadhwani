@@ -1,4 +1,4 @@
-# Hi there, I'm Deepak Sadhwani! 👋
+# Hi there, I'm Deepak Sadhwani! 
 
 I'm a passionate software enthusiast from India, hailing from the beautiful city of Bhiwara in Rajasthan. I hold a Post Graduation Diploma in Computer Applications and a Bachelor's degree in Computer Applications from Jaipur National University.
 
