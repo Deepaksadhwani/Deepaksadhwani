@@ -78,6 +78,10 @@ I'm deeply committed to the software field, driven by a determination to grind u
 <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </a>
+<a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</a>
+
 <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
 </a>
