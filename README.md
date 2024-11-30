@@ -22,9 +22,7 @@ I'm deeply committed to the software field, driven by a determination to grind u
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-</a>
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </a>
@@ -36,9 +34,7 @@ I'm deeply committed to the software field, driven by a determination to grind u
 </a>
 
 </a>
-<a href="https://www.netlify.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="Netlify" width="40" height="40"/>
-</a>
+
 <a href="https://vercel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40"/>
 </a>
@@ -48,20 +44,9 @@ I'm deeply committed to the software field, driven by a determination to grind u
 <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </a>
-<a href="https://reactrouter.com/" target="_blank">
-    <img src="https://reactrouter.com/_brand/react-router-mark-color.png" alt="React Router" width="40" height="40"/>
-</a>
-<a href="https://react-hook-form.com/" target="_blank">
-    <img src="https://react-hook-form.com/img/logo.png" alt="React Hook Form" width="40" height="40"/>
-</a>
+
 <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-</a>
-<a href="https://webpack.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev/" target="_blank">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
 </a>
 
 <a href="https://www.npmjs.com/" target="_blank">
@@ -79,12 +64,10 @@ I'm deeply committed to the software field, driven by a determination to grind u
 <a href="https://firebase.google.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="40" height="40"/>
 </a>
-<a href="https://expressjs.com/" target="_blank">
+<a href="https://expressjs.com/"  target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
 </a>
-<a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-</a>
+
 <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
 </a>
