@@ -29,22 +29,25 @@ I'm deeply committed to the software field, driven by a determination to grind u
 <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
 </a>
-<a href="https://pages.github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub Pages" width="40" height="40"/>
-</a>
+
 
 </a>
-
-<a href="https://vercel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="Vercel" width="40" height="40"/>
+<a href="https://turbo.build/repo" target="_blank">
+    <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" alt="Turbo Repo" width="40" height="40"/>
 </a>
+
 <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 </a>
 <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
 </a>
-
+<a href="https://turbo.build/repo" target="_blank">
+    <img src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png" alt="Turbo Repo" width="40" height="40"/>
+</a>
 <a href="https://redux.js.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </a>
